@@ -1,0 +1,3 @@
+import DFA
+
+DFA.runDFA()
