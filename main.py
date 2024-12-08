@@ -1,3 +1,2 @@
 import DFA
-
 DFA.runDFA()
